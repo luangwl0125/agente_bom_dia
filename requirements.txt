@@ -1,0 +1,16 @@
+PyAutoGUI==0.9.54
+python-dotenv==1.0.0
+opencv-python==4.8.1.78
+Pillow==10.1.0
+pyautogui>=0.9.54
+openai>=1.14.3
+requests>=2.31.0
+pyttsx3>=2.90
+beautifulsoup4>=4.12.3
+PyPDF2>=3.0.1
+python-dotenv>=1.0.1
+SpeechRecognition>=3.10.1
+
+⚠️ pyaudio deve ser instalado assim:
+pip install pipwin
+pipwin install pyaudio
